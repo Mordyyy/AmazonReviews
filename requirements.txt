@@ -1,3 +1,5 @@
 gcld3
 pycountry
 transformers
+translators
+autocorrect
